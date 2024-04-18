@@ -1,0 +1,5 @@
+- (DONE) Check ErlanB Equation (incorrect calculations)
+- (DONE) Enable switching between calculation models
+- (DONE) Control floating-point values
+- (DONE) Add units next to the output fields 
+- Start on the second tab
